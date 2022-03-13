@@ -62,7 +62,7 @@ span .font-pair1b{
 }
 
 .second-section-background {
-  background: url("https://images.pexels.com/photos/2438212/pexels-photo-2438212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat fixed bottom;
+  background: url ("https://images.pexels.com/photos/2438212/pexels-photo-2438212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat fixed bottom;
   background-color: black;
 }
 
