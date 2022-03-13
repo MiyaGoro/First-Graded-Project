@@ -57,17 +57,17 @@ span .font-pair1b{
 }
 
 .first-section-background {
-  background-image: url(images/online.jpg) no-repeat fixed bottom;
+  background-image: url("images/online.jpg") no-repeat fixed bottom;
   background-color: white;
 }
 
 .second-section-background {
-  background: url(images/contrast.jpg) no-repeat fixed bottom;
+  background: url("images/contrast.jpg") no-repeat fixed bottom;
   background-color: black;
 }
 
 .third-section-background {
-  background: url(images/gothic.jpg) no-repeat fixed bottom;
+  background: url("images/gothic.jpg") no-repeat fixed bottom;
   background-color: gray;
 }
 
@@ -117,13 +117,13 @@ article {
 }
 
 .first-article-container {
-  background-color: #e2b400;
+  background-color: red;
 }
 
 .second-article-container {
-  background-color: #a66746;
+  background-color: purple;
 }
 
 .third-article-container {
-  background-color: #a69991;
+  background-color: blue;
 }
