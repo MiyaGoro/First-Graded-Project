@@ -57,7 +57,7 @@ span .font-pair1b{
 }
 
 .first-section-background {
-  background-image: url("images/online.jpg") no-repeat fixed bottom;
+  background-image: url ("images/online.jpg") no-repeat fixed bottom;
   background-color: white;
 }
 
