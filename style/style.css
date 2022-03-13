@@ -117,13 +117,13 @@ article {
 }
 
 .first-article-container {
-  background-color: red;
+  background-color: rgb(255, 158, 158);
 }
 
 .second-article-container {
-  background-color: purple;
+  background-color: rgb(248, 196, 248);
 }
 
 .third-article-container {
-  background-color: blue;
+  background-color: rgb(186, 186, 243);
 }
