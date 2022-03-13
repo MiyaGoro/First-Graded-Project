@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'PT Serif', serif;
   margin: 0;
   padding: 0;
 }
@@ -58,14 +58,17 @@ span .font-pair1b{
 
 .first-section-background {
   background-image: url(images/online.jpg) no-repeat fixed bottom;
+  background-color: white;
 }
 
 .second-section-background {
   background: url(images/contrast.jpg) no-repeat fixed bottom;
+  background-color: black;
 }
 
 .third-section-background {
   background: url(images/gothic.jpg) no-repeat fixed bottom;
+  background-color: gray;
 }
 
 .with-background {
@@ -91,6 +94,13 @@ h2 {
   font-size: 35px;
   font-weight: 200;
   line-height: 40px;
+}
+
+h3 {
+  font-size: 55px;
+  font-weight: 200;
+  line-height: 40px;
+  margin: 0;
 }
 
 h4 {
