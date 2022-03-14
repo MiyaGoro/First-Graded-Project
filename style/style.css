@@ -46,7 +46,7 @@ span .font-pair1b{
 /* add your css below this line */
 
 .hero-background {
-  background-image: url("https://images.pexels.com/photos/4050291/pexels-photo-4050291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed center;
+  background: url("https://images.pexels.com/photos/4050291/pexels-photo-4050291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed center;
   background-size: cover;
 }
 
@@ -61,11 +61,11 @@ span .font-pair1b{
 }
 
 .second-section-background {
-  background-image: url("https://images.pexels.com/photos/2438212/pexels-photo-2438212.jpeg") no-repeat fixed center;
+  background-image: url("https://images.pexels.com/photos/2438212/pexels-photo-2438212.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed center;
 }
 
 .third-section-background {
-  background-image: url("https://images.pexels.com/photos/819806/pexels-photo-819806.jpeg") no-repeat fixed center;
+  background-image: url("https://images.pexels.com/photos/819806/pexels-photo-819806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed center;
 
 }
 
