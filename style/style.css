@@ -58,17 +58,15 @@ span .font-pair1b{
 
 .first-section-background {
   background-image: url ("images/online.jpg") no-repeat fixed bottom;
-  background-color: white;
 }
 
 .second-section-background {
   background: url ("https://images.pexels.com/photos/2438212/pexels-photo-2438212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat fixed bottom;
-  background-color: black;
 }
 
 .third-section-background {
   background: url ("https://images.pexels.com/photos/819806/pexels-photo-819806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat fixed bottom;
-  background-color: gray;
+
 }
 
 .with-background {
