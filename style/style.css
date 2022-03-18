@@ -15,9 +15,17 @@ header {
 .hero-content {
   width: 50%;
   text-align: center;
-  color: #000;
+  color: white;
 }
 
+nav{
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: black;
+}
 p {
   font-weight: 200;
   font-size: 14px;
@@ -27,7 +35,7 @@ p {
 a {
   margin-top: 30px;
   margin-right:10px;
-  background-color: rgb(0, 0, 0, 0.6);
+  background-color: black;
   padding: 10px;
   text-decoration: none;
   color: #fff;
@@ -35,7 +43,7 @@ a {
 }
 
 span .font-pair1a{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Georgia', serif;
 }
 
 span .font-pair1b{
@@ -46,7 +54,7 @@ span .font-pair1b{
 /* add your css below this line */
 
 .hero-background {
-  background: url("https://images.pexels.com/photos/4050291/pexels-photo-4050291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed center;
+  background: url("https://images.pexels.com/photos/698808/pexels-photo-698808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat fixed center;
   background-size: cover;
 }
 
@@ -57,15 +65,15 @@ span .font-pair1b{
 }
 
 .first-section-background {
-  background-image: url("https://images.pexels.com/photos/4126724/pexels-photo-4126724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed center;
+  background: url("https://images.unsplash.com/photo-1573495804660-b6b271f4c3f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80") no-repeat fixed bottom;
 }
 
 .second-section-background {
-  background-image: url("https://images.pexels.com/photos/2438212/pexels-photo-2438212.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed center;
+  background: url("https://images.pexels.com/photos/2438212/pexels-photo-2438212.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed center;
 }
 
 .third-section-background {
-  background-image: url("https://images.pexels.com/photos/819806/pexels-photo-819806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed center;
+  background: url("https://images.pexels.com/photos/819806/pexels-photo-819806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat fixed bottom;
 
 }
 
@@ -83,8 +91,8 @@ section {
 
 h1 {
   font-size: 60px;
-  line-height: 65px;
-  font-weight: 400;
+  line-height: 70px;
+  font-weight: 600;
   margin: 0;
 }
 
@@ -102,9 +110,9 @@ h3 {
 }
 
 h4 {
-  font-size: 40px;
-  font-weight: 200;
-  line-height: 40px;
+  font-size: 35px;
+  font-weight: 100;
+  line-height: 60px;
   margin: 0;
 }
 
@@ -115,13 +123,17 @@ article {
 }
 
 .first-article-container {
-  background-color: rgb(255, 158, 158);
+  background-color: #DCDCDC;
 }
 
 .second-article-container {
-  background-color: rgb(248, 196, 248);
+  background-color: #808080;
 }
 
 .third-article-container {
-  background-color: rgb(186, 186, 243);
+  background-color: #C0C0C0;
+}
+
+footer{
+  text-align: center;
 }
