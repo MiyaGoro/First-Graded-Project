@@ -12,6 +12,18 @@ header {
   height: 100vh;
 }
 
+.container{
+  height: 40px;
+  width: 50px;
+  background-color: orange;
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  position: sticky;
+  bottom: 25px;
+  left: 35px;
+}
+
 .hero-content {
   width: 50%;
   text-align: center;
@@ -26,6 +38,7 @@ nav{
   width: 100%;
   background-color: black;
 }
+
 p {
   font-weight: 200;
   font-size: 14px;
